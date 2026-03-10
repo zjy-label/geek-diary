@@ -10,7 +10,8 @@ export default defineConfig({
       { text: '技术与架构', link: '/tech/frontend-news-2026-03-10' },
       { text: '商业与宏观', link: '/news/iran-us-conflict-2026-timeline' },
       { text: '全球十大新闻追踪', link: '/news/top-news-2026-03-10' },
-      { text: '装备与生活', link: '/life/remote-workspace-hardware-2026' }
+      { text: '装备与生活', link: '/life/remote-workspace-hardware-2026' },
+      { text: '创业与前沿', link: '/startup/one-person-company-policy-2026' }
     ],
     sidebar: [
       {
@@ -36,6 +37,12 @@ export default defineConfig({
         text: '数字游民与 Remote 基建',
         items: [
           { text: '2026 桌面硬件升维指南 (3080+4K)', link: '/life/remote-workspace-hardware-2026' }
+        ]
+      },
+      {
+        text: '独立开发与 AI 创业',
+        items: [
+          { text: '2026 一人公司政策与创业方向推演', link: '/startup/one-person-company-policy-2026' }
         ]
       }
     ]
