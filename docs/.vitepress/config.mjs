@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/geek-diary/', 
   title: "95后架构师的极客日记",
   description: "前端架构深度解析 + AI时代独立开发者的实战思考",
   themeConfig: {
