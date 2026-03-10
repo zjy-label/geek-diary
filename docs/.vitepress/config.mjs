@@ -9,6 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '技术与架构', link: '/tech/frontend-news-2026-03-10' },
       { text: '商业与宏观', link: '/news/iran-us-conflict-2026-timeline' },
+      { text: '全球十大新闻追踪', link: '/news/top-news-2026-03-10' },
       { text: '装备与生活', link: '/life/remote-workspace-hardware-2026' }
     ],
     sidebar: [
@@ -28,6 +29,7 @@ export default defineConfig({
         text: '宏观视野与AI商业洞察',
         items: [
           { text: '2026中东战局始末与商业推演', link: '/news/iran-us-conflict-2026-timeline' }
+          , { text: '全球十大核心新闻追踪 (2026-03-10)', link: '/news/top-news-2026-03-10' }
         ]
       },
       {
