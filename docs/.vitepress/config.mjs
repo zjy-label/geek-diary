@@ -43,7 +43,8 @@ export default defineConfig({
       {
         text: '独立开发与 AI 创业',
         items: [
-          { text: '2026 一人公司政策与创业方向推演', link: '/startup/one-person-company-policy-2026' }
+          { text: '2026 一人公司政策与创业方向推演', link: '/startup/one-person-company-policy-2026' },
+          { text: '情绪价值 AI：虚拟伴侣 MVP', link: '/startup/ai-companion-mvp-2026-03-11' }
         ]
       }
     ]
