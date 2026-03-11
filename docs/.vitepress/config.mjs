@@ -29,8 +29,9 @@ export default defineConfig({
       {
         text: '宏观视野与AI商业洞察',
         items: [
-          { text: '2026中东战局始末与商业推演', link: '/news/iran-us-conflict-2026-timeline' }
-          , { text: '全球十大核心新闻追踪 (2026-03-10)', link: '/news/top-news-2026-03-10' }
+          { text: '2026中东战局始末与商业推演', link: '/news/iran-us-conflict-2026-timeline' },
+          { text: '全球十大核心新闻追踪 (2026-03-10)', link: '/news/top-news-2026-03-10' },
+          { text: '全球核心商业与科技追踪 (2026-03-11)', link: '/news/top-news-2026-03-11' }
         ]
       },
       {
