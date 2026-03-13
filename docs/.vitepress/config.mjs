@@ -24,6 +24,7 @@ export default defineConfig({
         text: '技术前沿与面试兵器库',
         items: [
           { text: '前端动态与高频考点追踪', link: '/tech/frontend-news-2026-03-10' },
+          { text: '大模型时代的流式响应与智能拦截', link: '/tech/llm-streaming-interception' },
           { text: '十万级动态虚拟滚动核心原理', link: '/tech/virtual-scroll-dynamic-height' }
         ]
       },
