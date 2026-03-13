@@ -33,7 +33,8 @@ export default defineConfig({
           { text: '2026中东战局始末与商业推演', link: '/news/iran-us-conflict-2026-timeline' },
           { text: '全球十大核心新闻追踪 (2026-03-10)', link: '/news/top-news-2026-03-10' },
           { text: '全球核心商业与科技追踪 (2026-03-11)', link: '/news/top-news-2026-03-11' },
-          { text: '全球局势与科技商业速递 (2026-03-12)', link: '/news/2026-03-12-daily' }
+          { text: '全球局势与科技商业速递 (2026-03-12)', link: '/news/2026-03-12-daily' },
+          { text: '全球商业与科技风向标 (2026-03-13)', link: '/news/2026-03-13-global-summary' }
         ]
       },
       {
