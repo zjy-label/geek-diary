@@ -25,6 +25,7 @@ export default defineConfig({
         items: [
           { text: '前端动态与高频考点追踪', link: '/tech/frontend-news-2026-03-10' },
           { text: '大模型时代的流式响应与智能拦截', link: '/tech/llm-streaming-interception' },
+          { text: '行动简报 (2026-03-13)', link: '/news/2026-03-13-morning-briefing' },
           { text: '十万级动态虚拟滚动核心原理', link: '/tech/virtual-scroll-dynamic-height' }
         ]
       },
