@@ -56,7 +56,8 @@ export default defineConfig({
           { text: '情绪价值 AI：虚拟伴侣 MVP', link: '/startup/ai-companion-mvp-2026-03-11' },
           { text: '2026 抖音商业思维与赚钱趋势洞察', link: '/startup/douyin-business-trends-2026' },
           { text: 'Reddit 独立开发者血泪复盘 (2026)', link: '/startup/reddit-indie-hackers-lessons-2026' },
-          { text: 'Reddit 微型 SaaS 与赚钱逻辑深度拆解', link: '/startup/reddit-micro-saas-analysis-2026' }
+          { text: 'Reddit 微型 SaaS 与赚钱逻辑深度拆解', link: '/startup/reddit-micro-saas-analysis-2026' },
+          { text: '全球微型 SaaS 商业情报日报 (2026-03-17)', link: '/startup/reddit-daily/2026-03-17' }
         ]
       }
     ]
