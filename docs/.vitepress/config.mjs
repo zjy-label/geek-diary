@@ -58,7 +58,8 @@ export default defineConfig({
           { text: 'Reddit 独立开发者血泪复盘 (2026)', link: '/startup/reddit-indie-hackers-lessons-2026' },
           { text: 'Reddit 微型 SaaS 与赚钱逻辑深度拆解', link: '/startup/reddit-micro-saas-analysis-2026' },
           { text: '全球微型 SaaS 商业情报日报 (2026-03-17)', link: '/startup/reddit-daily/2026-03-17' },
-          { text: '独立游戏与游戏化创业情报 (2026-03-17)', link: '/startup/game-daily/2026-03-17' }
+          { text: '独立游戏与游戏化创业情报 (2026-03-17)', link: '/startup/game-daily/2026-03-17' },
+          { text: '2026 最新 Micro-SaaS 创业点子 (双人组)', link: '/startup/ai-ideas-2026-v2' }
         ]
       }
     ]
