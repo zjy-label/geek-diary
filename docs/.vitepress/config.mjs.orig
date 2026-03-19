@@ -26,7 +26,6 @@ export default defineConfig({
           { text: '前端动态与高频考点追踪', link: '/tech/frontend-news-2026-03-10' },
           { text: '大模型时代的流式响应与智能拦截', link: '/tech/llm-streaming-interception' },
           { text: 'Vercel 全栈自动化部署卡点破解', link: '/tech/vercel-supabase-automation-pitfalls' },
-          { text: '行动简报 (2026-03-19)', link: '/news/2026-03-19-morning-briefing' },
           { text: '行动简报 (2026-03-17)', link: '/news/2026-03-17-morning-briefing' },
           { text: '行动简报 (2026-03-16)', link: '/news/2026-03-16-morning-briefing' },
           { text: '行动简报 (2026-03-15)', link: '/news/2026-03-15-morning-briefing' },
@@ -59,8 +58,7 @@ export default defineConfig({
           { text: 'Reddit 独立开发者血泪复盘 (2026)', link: '/startup/reddit-indie-hackers-lessons-2026' },
           { text: 'Reddit 微型 SaaS 与赚钱逻辑深度拆解', link: '/startup/reddit-micro-saas-analysis-2026' },
           { text: '全球微型 SaaS 商业情报日报 (2026-03-17)', link: '/startup/reddit-daily/2026-03-17' },
-          { text: '独立游戏与游戏化创业情报 (2026-03-17)', link: '/startup/game-daily/2026-03-17' },
-          { text: '2026 最新 Micro-SaaS 创业点子 (双人组)', link: '/startup/ai-ideas-2026-v2' }
+          { text: '独立游戏与游戏化创业情报 (2026-03-17)', link: '/startup/game-daily/2026-03-17' }
         ]
       }
     ]
