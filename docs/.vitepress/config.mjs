@@ -67,6 +67,7 @@ export default defineConfig({
           { text: '全球微型 SaaS 商业情报日报 (2026-03-17)', link: '/startup/reddit-daily/2026-03-17' },
           { text: '独立游戏与游戏化创业情报 (2026-03-17)', link: '/startup/game-daily/2026-03-17' },
           { text: '2026 最新 Micro-SaaS 创业点子 (双人组)', link: '/startup/ai-ideas-2026-v2' }
+          , { text: 'AI 与独立开发动态 (2026-03-23)', link: '/news/2026-03-23-ai-startup-news' }
         ]
       }
     ]
