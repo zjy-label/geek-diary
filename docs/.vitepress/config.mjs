@@ -28,6 +28,7 @@ export default defineConfig({
           { text: 'Vercel 全栈自动化部署卡点破解', link: '/tech/vercel-supabase-automation-pitfalls' },
           { text: '全球视野与科技前沿 (2026-03-19)', link: '/news/2026-03-19-latest-news' },
 
+          { text: '行动简报 (2026-03-25)', link: '/news/2026-03-25-morning-briefing' },
           { text: '行动简报 (2026-03-24)', link: '/news/2026-03-24-morning-briefing' },
           { text: '行动简报 (2026-03-23)', link: '/news/2026-03-23-morning-briefing' },
           { text: '行动简报 (2026-03-22)', link: '/news/2026-03-22-morning-briefing' },
