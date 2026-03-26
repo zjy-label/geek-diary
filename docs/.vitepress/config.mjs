@@ -31,6 +31,7 @@ export default defineConfig({
           { text: '实战场景推演：Generative UI 架构实现“智能财务管家” SaaS', link: '/tech/generative-ui-use-case' },
           { text: '生成式 UI 的边界：能直接靠 BFF 生成新页面和模块吗？', link: '/tech/rsc-routing-vs-generative-ui' },
           { text: '万物皆插槽？Server-Driven UI 的终极形态与死穴', link: '/tech/sdui-slot-architecture-tradeoffs' },
+          { text: '极简 AI SaaS 架构白皮书：基于 RSC 与 Generative UI 的实战指南', link: '/tech/ai-saas-architecture-whitepaper' },
           { text: 'Vercel 全栈自动化部署卡点破解', link: '/tech/vercel-supabase-automation-pitfalls' },
           { text: '全球视野与科技前沿 (2026-03-19)', link: '/news/2026-03-19-latest-news' },
 
