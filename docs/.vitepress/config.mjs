@@ -40,7 +40,8 @@ export default defineConfig({
           { text: '行动简报 (2026-03-16)', link: '/news/2026-03-16-morning-briefing' },
           { text: '行动简报 (2026-03-15)', link: '/news/2026-03-15-morning-briefing' },
           { text: '行动简报 (2026-03-13)', link: '/news/2026-03-13-morning-briefing' },
-          { text: '十万级动态虚拟滚动核心原理', link: '/tech/virtual-scroll-dynamic-height' }
+          { text: '十万级动态虚拟滚动核心原理', link: '/tech/virtual-scroll-dynamic-height' },
+          { text: '前端架构与生态核心趋势追踪 (03-26)', link: '/tech/frontend-trends-2026-03-26' }
         ]
       },
       {
