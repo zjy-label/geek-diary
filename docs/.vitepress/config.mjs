@@ -28,6 +28,7 @@ export default defineConfig({
           { text: '生成式 UI 与 React2Shell 沙箱防御', link: '/tech/generative-ui-rsc-security' },
           { text: '生成式 UI 核心拷问：前端失业论与 Vue/React 选型', link: '/tech/generative-ui-qa' },
           { text: '实战拆解：SaaS 架构下前端的真实指责', link: '/tech/saas-frontend-responsibilities' },
+          { text: '实战场景推演：Generative UI 架构实现“智能财务管家” SaaS', link: '/tech/generative-ui-use-case' },
           { text: 'Vercel 全栈自动化部署卡点破解', link: '/tech/vercel-supabase-automation-pitfalls' },
           { text: '全球视野与科技前沿 (2026-03-19)', link: '/news/2026-03-19-latest-news' },
 
