@@ -37,6 +37,7 @@ export default defineConfig({
           { text: '全球视野与科技前沿 (2026-03-19)', link: '/news/2026-03-19-latest-news' },
 
           { text: '行动简报 (2026-04-18)', link: '/news/2026-04-18-morning-briefing' },
+          { text: '行动简报 (2026-04-19)', link: '/news/2026-04-19-morning-briefing' },
           { text: '行动简报 (2026-04-17)', link: '/news/2026-04-17-morning-briefing' },
           { text: '行动简报 (2026-04-16)', link: '/news/2026-04-16-morning-briefing' },
           { text: '行动简报 (2026-04-14)', link: '/news/2026-04-14-morning-briefing' },
